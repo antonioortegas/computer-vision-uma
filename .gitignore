@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 */__pycache__/
 .venv
+*.pdf
+*.html
+*.zip
